@@ -1,12 +1,14 @@
 # touch-of-power
 
-- a final Web Dev bootcamp project
+(in progress)
+
+- a final bootcamp Full Stack (junior) Web Dev project
 
 - Used technologies:
 
-  - Next.JS
+  - React.JS
   - TypeScript
   - Tailwind
   - MongoDB
 
-- I have decided to use Next.JS for project structure and easy rooting, but using (so far) more familiar React code syntax.
+

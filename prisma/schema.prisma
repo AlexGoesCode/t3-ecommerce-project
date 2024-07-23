@@ -51,3 +51,7 @@ model DownloadVerification {
   createdAt              DateTime         @default(now())
   updateAt               DateTime         @updatedAt
 }
+
+model Whatever {
+  id String @id @default(uuid())
+}

@@ -1,14 +1,13 @@
-# touch-of-power
+A freshly setup tutorial T3 stack project
 
-(in progress)
+(paused, postponed after I finish my final bootcamp MERN project)
 
-- a final bootcamp Full Stack (junior) Web Dev project
 
-- Used technologies:
+Stack:
 
-  - React.JS
+  - Next.JS
   - TypeScript
   - Tailwind
-  - MongoDB
+  - Prisma + SQLite
 
 
